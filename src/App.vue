@@ -14,8 +14,8 @@
     <img landingimg src="./assets/kid.png" />
   </div>
 </template>
-<script>
 
+<script>
   export default {
     name: 'App',
     data: () => ({
@@ -56,7 +56,7 @@
         },
       ],
       description: "Loren ipsum dolor set a met, consectetur adipising elit, sed to eiusmod tempor incididunt ut labore et dolore magnaaliqua.",
-  })
+    })
   }
 </script>
 
