@@ -60,10 +60,10 @@
   }
 </script>
 
-<style lang="scss">
+<style>
   body {
-    background: #ffff55;
-    color: #4900c2;
+    background: #ffe19f;
+    color: #ff0000;
     font-family: 'Courier New';
     font-size: 12px;
     margin: 0;
@@ -78,10 +78,11 @@
     justify-content: space-between;
     max-height: 50vh;
     height: 48vh;
-    a {
-      font-size: 26px;
-      font-weight: bold;
-    }
+  }
+  a {
+    font-size: 26px;
+    font-weight: bold;
+    color: #ff0000;
   }
   [linkscontainer] {
     max-height: 25vh;
@@ -95,6 +96,6 @@
   [landingimg] {
     width: 100%;
     height: 48vh;
-    background-color: #4900c2;
+    background-color: #ff0000;
   }
 </style>
